@@ -122,6 +122,7 @@ platform_check_image() {
 	wrtnode |\
 	wrtnode2r |\
 	wrtnode2p |\
+	yfisp |\
 	wt1520 |\
 	wt3020 |\
 	x5 |\

@@ -400,6 +400,9 @@ ramips_board_detect() {
 	*"WRTnode2P")
 		name="wrtnode2p"
 		;;
+	*"YfiSp")
+		name="yfisp"
+		;;
 	*"Wansview NCS601W")
 		name="ncs601w"
 		;;

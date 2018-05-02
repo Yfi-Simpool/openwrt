@@ -3,7 +3,7 @@
 #
 
 SUBTARGET:=mt7628
-BOARDNAME:=WRTnode 2 series
+BOARDNAME:=YfiSp
 ARCH_PACKAGES:=ramips_24kec
 FEATURES+=usb
 CPU_TYPE:=24kec
